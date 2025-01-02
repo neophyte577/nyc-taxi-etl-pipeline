@@ -1,0 +1,2 @@
+*.ipynb text eol=lf
+*.csv filter=lfs diff=lfs merge=lfs -text

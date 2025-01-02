@@ -1,0 +1,17 @@
+# Fill in the corresponding values in the block below, then use it to replace the GOOGLE_SERVICE_ACC_KEY block in the Mage io_config.yaml 
+# Most of the values will be unique to your session, instance, etc., but are obtainable exactly as indicated in Darshil's video
+
+GOOGLE_SERVICE_ACC_KEY:
+  type: service_account
+  project_id: taxi-data-444600
+  private_key_id: ecf95519e881bf36d96baed8170968f43c3b3b82
+  private_key: "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQGzU3+N3md/NZ\nKJRolpAVsAJfGdHK63gW9gBZhH2+t44VeaF9lD6/jqQer3MoMW4zdQmDt9/9GyUi\nQz/lFKCZvzQnMNBuvPpCe1TufLXxo48mfZGk0pTrIEHdsbI/7E7J28QY/eEWF/jX\nE/2FLg5MEv4vHiyoLaBHDWr5RNnZvctOhtGdb00tXdMsDteIjJu/i0DI1eU63FVK\nmO7tt/LJw8nlrxoKXjEWjYKr9XtYwjvahC3q4HcwRfygJX2v4t5P565yYO/rUkII\nIT35thlsaGNShnD4jqMJnCpxlcunTQL9esGDrvzCT6PJFrDug4+0aEwQPiXKUrJx\ngkx3pueLAgMBAAECggEAKxv3wkiDbyKZ/nYxiBjocBWt6BVpKCfvEJKVL/YKNl+/\nxyMTGPiEpxndVZ3ytPjIY1BzUB3fAIeHAbn8mm/TdQXuv8+U3du3293AkkazSgMf\nvFF2wjX9M1fTTSFqU2OYTqh/zs2IuxLsMWGqutP3kjq8/PW7Ont5ID7fUhO5LSmM\nNz4OL9A9keiGxul77L5fPVCPGlZyd+3XG5Qj6fSlGnWdca96fVZR0h8wu/KerEUO\no0RuviljSBSYkrpVzm6HA4lpot6A6fT1rdNminEvUVWRJnEYemSniquYBpNzvFzk\nrOmH/exs3/5saF+BWPUY+OmCjOdPvGkx6dzHQ+ogQQKBgQDrEgL9mPtV8seQ8Z4F\nUcqRBr+0HEKBTQEdsUgsYlZgpYiZ2NRZxuphJRlP0MuvVLtp0r3OEHH7DkxB9UxE\n/i9pPe68c5577nfpAFaEDUCcnOkNTn2bg0B7AOfKA8wJUTnDxCSxfuI7BvzCkqVJ\nryN62lPAFgwGho8UimvP/8iBzQKBgQDiopnAJRE0lgpnWVxm/WPVZpVPOMQGlLIN\nVTgHhVYfqO6OMlMN3Nsp2Bdei3LpdAqJdphTbyvuTUXl+bDISwnLUe07YWpvADY5\nmaXV31b7VHV7zfx7740tU57A7053qrFSpnARYwAlNlvZFtcylzOxoI7TD0fB92oK\nddIgvFSWtwKBgEgVqOcdf41Wus3+2edlsomQmT7hH5/I/ludnrVFnplaia4r6Mpz\nDjKmDsIEFEH66NHFt0C2mE1VkBr13uKVU/Kg9FHD3sjAUvMXkHBEJBkioPDcrfX/\nZMmTeIDhczM0PlODFYF8mGFjfiUolRkoZOfqhZ405JEnuD6jR/ZryI/NAoGARi+k\n/eR815Q/1JHQE/UVHdmPE+G4k3EpUwe5OlsIuPVQK6laH0judp79XcJB7BqLyNZ5\nhh0/taUoqHgTT3QtrFHK7kDU/VtLb7stqHZqMZuOZrD8KEWfqxHicE2sN1MdZ0M0\nIa5PNTcIasqwCnLZB4F5udNZnbBJnsOuN4UbjTECgYEAo13Vk1MbXZRHTYfY1Oek\n0pcqQMWGy3IAm90NyYE78RGpXxmah1lu+NGh8tJLZKFHwPM0fqQ2wXLQG6lSslxH\n6mejxKHhmVS6O1WHJiv+bGB6XzYYZWaXY2RwBi/Ux+9en1p+X35Rfndghf8itlKo\nd0Mz/Je5bDdP96Uk2S2axFM=\n-----END PRIVATE KEY-----\n,"
+  client_email: taxi-data-engineering-project@taxi-data-444600.iam.gserviceaccount.com
+  auth_uri: "https://accounts.google.com/o/oauth2/auth"
+  token_uri: "https://oauth2.googleapis.com/token"
+  auth_provider_x509_cert_url: "https://www.googleapis.com/oauth2/v1/certs"
+  client_x509_cert_url: "https://www.googleapis.com/robot/v1/metadata/x509/taxi-data-engineering-project%40taxi-data-444600.iam.gserviceaccount.com"
+ 
+
+
+
